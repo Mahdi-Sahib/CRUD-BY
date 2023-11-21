@@ -1,4 +1,4 @@
-
+Laravel: add Created by & Updated by to any model
 1. Create the migration file for the posts table by running the following command in your terminal:
 ```
 php artisan make:migration create_posts_table --create=posts
